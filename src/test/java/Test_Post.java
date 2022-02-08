@@ -10,7 +10,7 @@ import static io.restassured.RestAssured.*;
 
 public class Test_Post {
 	
-	@Test(priority=0)
+	//@Test(priority=0)
 	public void test_Post() {
 		
 //			Map<String, Object> map = new HashMap<String, Object>();
